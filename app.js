@@ -1,5 +1,5 @@
 // app.js (type=module)
-const SPOONACULAR_KEY = 'f362571a1f9e4079832588827a2c93ae'; // <-- put your key here
+const SPOONACULAR_KEY = 'b32de3df03d84a0e8fbc5808e6fb0b72'; // <-- put your key here
 const SPOON_BASE = 'https://api.spoonacular.com';
 const THEMEALDB_BASE = 'https://www.themealdb.com/api/json/v1/1';
 
